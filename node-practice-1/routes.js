@@ -20,7 +20,7 @@ const requestHandler = (req, res) => {
     res.write('<head><title>Users List</title></head>');
     res.write('<body><h1>Users:</h1>');
     res.write('<ul>');
-    res.write('<li>Shannon</li>');
+    res.write('<li>Shannon Sh</li>');
     res.write('<li>Skip</li>');
     res.write('<li>Chris</li>');
     res.write('</ul>');
